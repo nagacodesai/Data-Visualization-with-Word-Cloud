@@ -3,7 +3,7 @@
 ## **Synopsis**
 This project demonstrates the creation of **word clouds**, a powerful visualization tool for textual data. Word clouds provide a visually appealing way to represent the most frequent words in a dataset, with word size indicating frequency or importance. This project also explores customization options like shapes, colors, and background themes for generating dynamic and engaging word clouds.
 
-As part of this project, a PowerPoint presentation has been created to detail a bout word cloud. Additionally, a previous video version of this Word Cloud project is available on YouTube for reference.
+As part of this project, a PowerPoint presentation has been created to detail about word cloud. Additionally, a previous video version of this Word Cloud project is available on YouTube for reference.
 
 ---
 
